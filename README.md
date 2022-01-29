@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
+---
 Jerjer3333333/Jerjer3333333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-(JerryFallot)/ is Admin on the project if your interested in being signed a roll email me at jerjer3333333@gmail.com thanks
+---
+
 
